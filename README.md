@@ -16,7 +16,7 @@ Let It Rip is a project inspired by the Hulu TV series "The Bear." This website 
 
 Let It Rip is a static website built using HTML, CSS, and JavaScript. It features a parallax effect, a carousel gallery, and personalized menus created with Canva.
 
-The Website is deployed and accessible at https://anniejhwang.github.io/let-it-rip/.
+Let It Rip is deployed and accessible [Here](https://anniejhwang.github.io/let-it-rip/)
 
 ## Features
 
